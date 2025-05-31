@@ -1,8 +1,3 @@
-<!-- タイルカード -->
-<p align="center">
-  <img alt="Yuyu-gpt streak" src="https://github-profile-summary-cards.vercel.app/api/cards/streak-stats?username=Yuyu-gpt&theme=tokyonight" />
-</p>
-
 <!--　GitHub Readme Statsのタイル -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuyu-gpt&show_icons=true&theme=tokyonight" alt="GitHub stats" />
