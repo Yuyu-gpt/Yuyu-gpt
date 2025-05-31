@@ -20,8 +20,7 @@
 
 <!-- 4. 最後にyuyuちゃんのGIF（サイズ128×256にリサイズ済み想定） -->
 <p align="center">
-  <img src="assets/B-Yuyu.gif" width="256" height="256" alt="Yuyu's GIF" 
-       style="style="border-radius: 50%; border: 4px solid #2ee8c1; box-shadow: 0 0 10px #2ee8c1;" />
+  <img src="assets/B-Yuyu.gif" width="256" height="256" alt="Yuyu's GIF" />
 </p>
 
 <!-- 5. 軽い自己紹介テキスト -->
