@@ -1,9 +1,3 @@
-<!--　GitHub Readme Statsのタイル -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuyu-gpt&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuyu-gpt&theme=tokyonight" alt="GitHub streak" />
-</p>
-
 <!-- アイコン -->
 <p align="center">
   <img src="assets/B-Yuyu.gif" width="128" height="128" alt="Yuyu's GIF" />
