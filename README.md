@@ -20,13 +20,13 @@
 
 <!-- アイコン -->
 <p align="center">
-  <img src="assets/B-Yuyu.gif" width="256" height="256" alt="Yuyu's GIF" />
+  <img src="assets/B-Yuyu.gif" width="128" height="128" alt="Yuyu's GIF" />
 </p>
 
 <!--　自己紹介テキスト -->
 <p align="center">
-  こんにちは、yuyuです。<br />
-  Techisでプログラミング教えてもらったよ。<br />
-  プログラミングにがてです。<br />
-  かわいいものが大好き。
+  Hi、I'm yuyu.<br />
+  TechisとChatGPTにプログラミングを教えてもらいました。<br />
+  プログラミングはまだ苦手ですが、頑張っています。<br />
+  かわいいものが大好きです。
 </p>
