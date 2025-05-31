@@ -1,15 +1,15 @@
-<!-- 1. 上部にマウロさん風のタイルカード -->
+<!-- タイルカード -->
 <p align="center">
   <img alt="Yuyu-gpt streak" src="https://github-profile-summary-cards.vercel.app/api/cards/streak-stats?username=Yuyu-gpt&theme=tokyonight" />
 </p>
 
-<!-- 2. その下にGitHub Readme Statsのタイル -->
+<!--　GitHub Readme Statsのタイル -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuyu-gpt&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuyu-gpt&theme=tokyonight" alt="GitHub streak" />
 </p>
 
-<!-- 3. 技術アイコンを中央寄せで並べる -->
+<!-- 技術アイコンを中央寄せで並べる -->
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -18,12 +18,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<!-- 4. 最後にyuyuちゃんのGIF（サイズ128×256にリサイズ済み想定） -->
+<!-- アイコン -->
 <p align="center">
   <img src="assets/B-Yuyu.gif" width="256" height="256" alt="Yuyu's GIF" />
 </p>
 
-<!-- 5. 軽い自己紹介テキスト -->
+<!--　自己紹介テキスト -->
 <p align="center">
   こんにちは、yuyuです。<br />
   Techisでプログラミング教えてもらったよ。<br />
