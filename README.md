@@ -1,6 +1,6 @@
 <!-- アイコン -->
 <p align="center">
-  <img src="assets/B-Yuyu.gif" width="128" height="128" alt="Yuyu's GIF" />
+  <img src="assets/B-Yuyu_watermarked.gif" width="128" height="128" alt="Yuyu's GIF" />
 </p>
 
 <!-- 技術アイコンを中央寄せで並べる -->
